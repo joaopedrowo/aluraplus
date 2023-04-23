@@ -32,7 +32,7 @@ body {
 .container {
     height: 100vh;
     display: grid;
-    grid-template-columns: 47% 47%;
+    grid-template-columns: 50% 50%;
 }
 
 .container__caixa {
@@ -40,7 +40,7 @@ body {
 }
 
 .container__titulo {
-    font-size: 40px;
+    font-size: 28px;
     font-weight: 700;
 }
 
@@ -70,7 +70,7 @@ body {
 
 .secundario {
     align-items: center;
-    margin: 0 10em;
+    margin: 0 6em;
 }
 
 .secundario__imagem {
